@@ -1,4 +1,4 @@
-This repository is a collection of the work I completed for the IBM Data Analyst Professional Certification. 
+This repository is a collection of the work I completed for the IBM Data Analyst Professional Certification. Certification completed January 4, 2024.
 
 What I learned:
 1. Visualize data using BI tools such as Cognos Analytics & Tableau and various charts in Excel spreadsheets
